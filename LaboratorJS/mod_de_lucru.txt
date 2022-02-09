@@ -1,0 +1,2 @@
+ <div id="root"></div> , din fisierul .html va aduce toate fisierele, e singurul scris in fisierul .html, nu se mai scrie nimic.
+ Nota: component tree in ReactJS, cauta

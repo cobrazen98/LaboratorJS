@@ -1,0 +1,1 @@
+Structura folderului de lucru LaboratorJS:

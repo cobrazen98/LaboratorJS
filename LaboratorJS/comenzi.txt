@@ -1,0 +1,27 @@
+## Comenzi in terminal:
+
+node -v
+/# Node JS(verifica versiunea).
+
+npx create-react-app aplicatia_mea
+/# Creaza un proiect ReactJS; "." inseamna sa creeze in folderul in care te afli.
+/# npm are restrictii in legatura cu numirea aplicatiei, ex.: fara litere mari.
+
+npm run build
+npm run eject
+npm test
+npm start
+/#Start server, iti va deschide un nou terminal pentru lucru in mod live.
+
+npm i uuid
+/# E o librarie de creat id-uri. Descarca libraria.
+/# 'i' vine de la install
+
+
+
+/#
+/#
+/#
+/#
+/#
+/#
